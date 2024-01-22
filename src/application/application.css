@@ -1,0 +1,109 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.Vbox{
+	-fx-background-color: lightgray
+}
+
+.descricao-label{
+	-fx-translate-x: 20px;
+	-fx-translate-y: 200px;
+	-fx-font-size: 15px;
+}
+.despertar-label{
+	-fx-translate-x: 380px;
+	-fx-translate-y: 140px;
+	-fx-font-size: 15px;
+}
+.descricao-tarefa-label{
+	-fx-font-size: 18px;
+	-fx-alignment: center;
+	-fx-translate-x: 311px;
+	-fx-font-weight: bold;
+	-fx-translate-y: -180px;
+}
+
+.descricao-field{
+	-fx-pref-width: 330px;
+	-fx-max-width: 330px;
+	-fx-pref-height: 35px;
+	-fx-translate-x: 20px;
+	-fx-translate-y: 200px;
+	-fx-font-size: 18px;
+}
+.horaField{
+	-fx-pref-width: 50px;
+	-fx-max-width: 50px;
+	-fx-pref-height: 35px;
+	-fx-translate-x: 400px;
+	-fx-translate-y: 140px;
+	-fx-font-size: 18px;
+	 -fx-alignment: center;
+}
+.minutoField{
+	-fx-pref-width: 50px;
+	-fx-max-width: 50px;
+	-fx-pref-height: 35px;
+	-fx-translate-x: 460px;
+	-fx-translate-y: 101px;
+	-fx-font-size: 18px;
+	 -fx-alignment: center;
+}
+
+
+.descricao-tarefa-field{
+	-fx-pref-width: 400px;
+	-fx-max-width: 700px;
+	-fx-translate-x: 0px;
+	-fx-pref-height: 150px;
+	-fx-background-color: transparent;
+	-fx-text-fill: red;
+	-fx-font-size: 20px;
+	-fx-alignment: center;
+	-fx-font-weight: bold;
+	-fx-translate-y: -160px;
+	
+	-fx-border-color: transparent;
+    -fx-border-width: 0.3px;
+    -fx-border-style: solid;
+    -fx-border-insets: 5;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.4), 10, 0, 0, 5);
+	
+	
+}
+
+.tabela{
+	-fx-background-color: transparent;
+	-fx-max-width: 700px;
+	-fx-pref-width: 600px;
+	-fx-pref-height: 250px;
+	-fx-translate-x: 0px;
+	-fx-translate-y: -40px;
+	-fx-font-size: 19px;
+}
+.col-descricao{
+	-fx-pref-width: 500px;
+}
+.col-despertar{
+	-fx-pref-width: 200px;
+	 -fx-alignment: center;
+}
+.btn-cadastrar{
+	-fx-pref-width: 90px;
+	-fx-pref-height: 35px;
+	-fx-translate-x: 545px;
+	-fx-translate-y: 65px;
+	-fx-font-size: 15px;
+}
+	
+	
+
+.btn-pararAlarme{
+	-fx-translate-x: 290px;
+	-fx-translate-y: -50px;
+	-fx-pref-height: 35px;
+	-fx-font-size: 15px;
+	
+}
+
+
+
+
